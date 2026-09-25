@@ -96,32 +96,36 @@ const translations = {
         products_description:
             "Choose the coconut that suits your requirement — from everyday use to bulk orders.",
 
-        product_1_type:
-            "PREMIUM",
+        
         product_1_title:
-            "Tender Coconut",
+            "Large Coconuts(500g)",
         product_1_text:
-            "Naturally refreshing tender coconuts with delicious coconut water.",
+            "Price: 30Rs.(per coconut)",
         product_1_button:
             "Order Now",
 
-        product_2_type:
-            "FARM FRESH",
+        
+            
         product_2_title:
-            "Mature Coconut",
+            "Medium Coconuts(350g)",
         product_2_text:
-            "Fresh mature coconuts suitable for homes, shops and food businesses.",
+            "Price: 25Rs.(per coconut)",
         product_2_button:
             "Order Now",
 
-        product_3_type:
-            "BUSINESS",
+       
         product_3_title:
-            "Bulk Supply",
+            "Small Coconuts(250g)",
         product_3_text:
-            "Bulk coconut supply for retailers, restaurants, hotels and businesses.",
+            "Price: 20Rs.(per coconut)",
         product_3_button:
-            "Request Quote",
+            "Order Now",
+
+        price_note_1: 
+           "★Prices may vary with time",
+        price_note_2:
+           "★Bargaining Option is available",
+            
 
         why_eyebrow:
             "WHY CHOOSE US",
@@ -217,11 +221,11 @@ const translations = {
             "Select product",
 
         form_tender:
-            "Tender Coconut",
+            "Large Coconuts",
         form_mature:
-            "Mature Coconut",
+            "Medium Coconuts",
         form_bulk:
-            "Bulk Supply",
+            "Small Coconuts",
 
         form_quantity:
             "Quantity",
@@ -365,32 +369,34 @@ const translations = {
         products_description:
             "రోజువారీ వినియోగం నుండి భారీ ఆర్డర్ల వరకు మీ అవసరానికి సరిపోయే కొబ్బరికాయలను ఎంచుకోండి.",
 
-        product_1_type:
-            "ప్రీమియం",
         product_1_title:
-            "లేత కొబ్బరికాయ",
+            "పెద్ద కొబ్బరికాయలు",
         product_1_text:
-            "రుచికరమైన కొబ్బరి నీటితో సహజంగా రిఫ్రెష్ చేసే లేత కొబ్బరికాయలు.",
+            "ధర: రూ.30(కొబ్బరికాయకు)",
         product_1_button:
             "ఆర్డర్ చేయండి",
 
-        product_2_type:
-            "వ్యవసాయ క్షేత్రం నుండి తాజా",
+       
         product_2_title:
-            "పండిన కొబ్బరికాయ",
+            "మీడియం కొబ్బరికాయలు",
         product_2_text:
-            "ఇళ్లు, దుకాణాలు మరియు ఆహార వ్యాపారాలకు అనువైన తాజా పండిన కొబ్బరికాయలు.",
+            "ధర: రూ.25 (కొబ్బరికాయకు)",
         product_2_button:
             "ఆర్డర్ చేయండి",
 
-        product_3_type:
-            "వ్యాపారం",
+        
         product_3_title:
-            "బల్క్ సరఫరా",
+            "చిన్న కొబ్బరికాయలు",
         product_3_text:
-            "రిటైలర్లు, రెస్టారెంట్లు, హోటళ్లు మరియు వ్యాపారాలకు భారీ కొబ్బరికాయల సరఫరా.",
+            "ధర: రూ.20 (కొబ్బరికాయకు)",
         product_3_button:
-            "ధర కోసం సంప్రదించండి",
+            "ఆర్డర్ చేయండి",
+
+        price_note_1:
+             "★ధరలు కాలానుగుణంగా మారవచ్చు",
+        price_note_2:
+             "★బేరసారాలు చేసుకునే అవకాశం ఉంది",
+
 
         why_eyebrow:
             "ఎందుకు మమ్మల్ని ఎంచుకోవాలి",
@@ -487,11 +493,11 @@ const translations = {
             "ఉత్పత్తిని ఎంచుకోండి",
 
         form_tender:
-            "లేత కొబ్బరికాయ",
+            "పెద్ద కొబ్బరికాయలు",
         form_mature:
-            "పండిన కొబ్బరికాయ",
+            "మీడియం కొబ్బరికాయలు",
         form_bulk:
-            "బల్క్ సరఫరా",
+            "చిన్న కొబ్బరికాయలు",
 
         form_quantity:
             "పరిమాణం",
@@ -554,7 +560,9 @@ const translations = {
             "అన్ని హక్కులు ప్రత్యేకించబడ్డాయి.",
 
         footer_quality:
-            "తాజాదనం • నాణ్యత • నమ్మకం"
+            "తాజాదనం • నాణ్యత • నమ్మకం",
+        nav_follow:
+            "ఫాలో అవ్వండి"
 
     },
 
@@ -635,32 +643,34 @@ const translations = {
         products_description:
             "दैनिक उपयोग से लेकर थोक ऑर्डर तक, अपनी आवश्यकता के अनुसार नारियल चुनें।",
 
-        product_1_type:
-            "प्रीमियम",
+        
         product_1_title:
-            "नारियल पानी वाला नारियल",
+            "बड़े नारियल",
         product_1_text:
-            "स्वादिष्ट नारियल पानी के साथ प्राकृतिक रूप से ताज़ा और तरोताज़ा करने वाले नारियल।",
+            "कीमत: ₹30 (प्रति नारियल)",
         product_1_button:
             "अभी ऑर्डर करें",
 
-        product_2_type:
-            "खेत से ताज़ा",
+        
         product_2_title:
-            "पका हुआ नारियल",
+            "मध्यम नारियल",
         product_2_text:
-            "घरों, दुकानों और खाद्य व्यवसायों के लिए उपयुक्त ताज़े पके हुए नारियल।",
+            "कीमत: ₹25 (प्रति नारियल)",
         product_2_button:
             "अभी ऑर्डर करें",
 
-        product_3_type:
-            "व्यवसाय",
+        
         product_3_title:
-            "थोक आपूर्ति",
+            "छोटे नारियल",
         product_3_text:
-            "रिटेलर्स, रेस्तरां, होटल और व्यवसायों के लिए थोक नारियल आपूर्ति।",
+            "कीमत: ₹20 (प्रति नारियल)",
         product_3_button:
-            "कीमत के लिए पूछें",
+            "अभी ऑर्डर करें",
+
+        price_note_1:
+             "★कीमतें समय-समय पर बदल सकती हैं",
+        price_note_2:
+             "★मोलभाव करने की सुविधा उपलब्ध है",
 
         why_eyebrow:
             "हमें क्यों चुनें",
@@ -757,11 +767,11 @@ const translations = {
             "उत्पाद चुनें",
 
         form_tender:
-            "नारियल पानी वाला नारियल",
+            "बड़े नारियल",
         form_mature:
-            "पका हुआ नारियल",
+            "मध्यम नारियल",
         form_bulk:
-            "थोक आपूर्ति",
+            "छोटे नारियल",
 
         form_quantity:
             "मात्रा",
@@ -824,7 +834,9 @@ const translations = {
             "सर्वाधिकार सुरक्षित।",
 
         footer_quality:
-            "ताज़गी • गुणवत्ता • भरोसा"
+            "ताज़गी • गुणवत्ता • भरोसा",
+        nav_follow:
+            "हमें फ़ॉलो करें "
 
     }
 
